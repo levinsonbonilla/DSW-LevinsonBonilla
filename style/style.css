@@ -1,0 +1,39 @@
+section{
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+footer{
+	border-top: 1px solid black;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 40px;
+	margin-bottom: 30px;
+}
+
+article{
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+p{
+	text-align: justify;
+}
+
+img{
+	margin-bottom: 20px;
+	margin-left: 100px;
+}
+
+a{
+	color: black;
+}
+
+#li{
+	margin-left: 20px;
+	margin-bottom: 20px;
+}
+
+#options{
+	margin-left: 20px;
+}

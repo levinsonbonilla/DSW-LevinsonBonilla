@@ -18,8 +18,8 @@ document.addEventListener("DOMContentLoaded", function(event) {
 					 ' <li class="li dropdown">'+
 					   ' <a href="javascript:void(0)" class="dropbtn">Recursos Multimedios</a>'+
 					    '<div class="dropdown-content">'+
-					    '  <a href="#">Link 1</a>'+
-					    '  <a href="#">Link 2</a>'+
+					    '  <a href="/fase3/paginas/multimedia_pagina1.html">Demostración CSS</a>'+
+					    '  <a href="/fase3/paginas/multimedia_pagina2.html">Demostración Frameworks CSS</a>'+
 					   ' </div>'+
 					  '</li>'+
 					  '<li class="li dropdown">'+

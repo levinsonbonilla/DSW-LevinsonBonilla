@@ -64,7 +64,7 @@ a{
 
 
 .content-secondary{
-	width: 900px;
+	width: 750px;
 	display: flex; 
     justify-content: space-between; 
     align-items: center; 
@@ -72,8 +72,17 @@ a{
     margin-right: 1rem;
 }
 
+.content-aside{
+	float: right;
+	margin-top: 10px;
+	overflow: visible;
+	width: 11em;
+    overflow-y: scroll;
+    scroll-behavior: smooth;
+}
+
 .content-primary{
-	width: 950px;
+	width: 750px;
 	min-height: 250px;
 }
 

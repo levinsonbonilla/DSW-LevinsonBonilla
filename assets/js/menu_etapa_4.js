@@ -2,8 +2,8 @@
 document.addEventListener("DOMContentLoaded", function(event) {
 	const menu = document.querySelector("#menu");
 	const footer = document.querySelector("#footer");
-	//const domain = "/DSW-LevinsonBonilla";
-	const domain = "";
+	const domain = "/DSW-LevinsonBonilla";
+	// const domain = "";
 
 	menu.innerHTML = 
 				'<nav>'+

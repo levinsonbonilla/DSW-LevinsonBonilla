@@ -31,7 +31,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
 					    '  <a href="'+domain+'/fase4/paginas/evaluacion_frameworks.html">Evaluación Frameworks CSS</a>'+
 					   '</div>'+
 					  '</li>'+
-					  '<li class="li"><a href="'+domain+'/fase4/paginas/seo.html">SEO</a></li>'+
+					  '<li class="li"><a href="'+domain+'/fase4/paginas/seo.html">SEO y Media Queries</a></li>'+
 					  '<li class="li"><a href="'+domain+'/fase4/paginas/autor.html">Autor</a></li>'+
 					'</ul>'+
 				'</nav>'  ;  

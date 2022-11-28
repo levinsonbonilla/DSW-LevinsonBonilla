@@ -81,6 +81,12 @@ a{
     scroll-behavior: smooth;
 }
 
+.content-aside-b{
+	overflow: visible;
+    overflow-y: scroll;
+    scroll-behavior: smooth;
+}
+
 .content-primary{
 	width: 750px;
 	min-height: 250px;
@@ -105,5 +111,9 @@ details{
 }
 
 .section-iframe{
+	margin-top: 20px;
+}
+
+#section-right{
 	margin-top: 20px;
 }
